@@ -19,6 +19,7 @@ Implementar la clase `Sorting <typename T>`  con los siguientes métodos:
 	- [ ] BinSort -> (2pts)
 	- [ ] RadixSort -> (2pts)
 	- [ ] BrickSort -> (2pts)
+	- [ ] CountingSort -> (2pts)
 
 ### Herramientas
 	* Lenguaje C++
